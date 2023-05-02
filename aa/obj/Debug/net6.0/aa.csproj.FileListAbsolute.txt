@@ -1,0 +1,17 @@
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\aa.exe
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\aa.deps.json
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\aa.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\aa.dll
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\aa.pdb
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.dll
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\refint\aa.dll
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.pdb
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\ref\aa.dll
+C:\Users\555\OneDrive\Masaüstü\aa\aa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\555\OneDrive\Masaüstü\aa\aa\obj\Debug\net6.0\aa.csproj.CopyComplete
