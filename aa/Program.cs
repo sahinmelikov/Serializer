@@ -1,4 +1,5 @@
 ﻿
+using aa.Models;
 using Newtonsoft.Json;
 using System;
 using System.Diagnostics;
@@ -6,7 +7,7 @@ using System.Net.Http.Json;
 using System.Reflection.Metadata;
 using System.Text.Json.Nodes;
 
-var myObject=new JsonObject();
+
 
 
 #region task1
@@ -26,24 +27,24 @@ string PathDataFile = @"C:/Users/555/OneDrive/Masaüstü/aa/Data/jsonData.json";
 
 
 #region Task2
-var urlJson = @"https://jsonplaceholder.typicode.com/posts";
+var urlJson = "https://jsonplaceholder.typicode.com/posts";
 
 HttpClient httpClient = new HttpClient();
-var content = await httpClient.GetStringAsync(urlJson);  ///////<====bu hissede sehv var🤐
+var content = await httpClient.GetStringAsync(urlJson);  
+string data =JsonConvert.SerializeObject(content);
 
-Console.WriteLine(JsonConvert.SerializeObject(content));
 
-//using (StreamWriter sw = new StreamWriter(PathDataFile))
-//{
-//    sw.WriteLine(JsonConvert.SerializeObject(content));
-//}
+using (StreamWriter sw = new StreamWriter(PathDataFile))
+{
+    sw.WriteLine(JsonConvert.SerializeObject(data));
+}
+//Class1 class1;
 //using (StreamReader sr = new StreamReader(PathDataFile))
 //{
-//    string data = await sr.ReadToEndAsync();
-//    JsonConvert.DeserializeObject<JsonObject>(content);
 
-
+//    class1 = JsonConvert.DeserializeObject<Class1>(data);
 //}
+
 
 
 #endregion
